@@ -1,0 +1,8 @@
+[23-May-2017 20:22:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mirellaj/public_html/application/controllers/shopping.php on line 154
+[23-May-2017 20:22:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mirellaj/public_html/application/controllers/shopping.php on line 154
+[23-May-2017 20:22:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mirellaj/public_html/application/controllers/shopping.php on line 154
+[23-May-2017 20:22:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mirellaj/public_html/application/controllers/shopping.php on line 154
+[23-May-2017 20:22:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mirellaj/public_html/application/controllers/shopping.php on line 154
+[23-May-2017 20:22:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mirellaj/public_html/application/controllers/shopping.php on line 154
+[23-May-2017 20:43:38 Asia/Jakarta] PHP Fatal error:  Call to a member function create_links() on null in /home/mirellaj/public_html/application/views/checkout.php on line 116
+[23-May-2017 20:46:08 Asia/Jakarta] PHP Fatal error:  Call to a member function create_links() on null in /home/mirellaj/public_html/application/views/checkout.php on line 165
